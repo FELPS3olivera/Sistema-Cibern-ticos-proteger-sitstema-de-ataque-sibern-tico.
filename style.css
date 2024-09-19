@@ -1,0 +1,30 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; /*tipo de fonte */
+    background-color: rgba(113, 165, 152, 0.774); /* cor do fundo do corpo */ 
+    color: rgb(3, 3, 0);
+
+    
+}
+  
+header{
+     background-color: rgb(76, 99, 100);
+    padding: 10px;
+     text-align: center;
+}
+    
+h1{
+  background-color: rgb(95, 146, 146);
+   padding: 10px;
+}
+
+article{
+    background-color: cadetblue;
+}
+button{
+    background-color: aquamarine;
+}
+ 
+li{
+    background-color: rgba(60, 150, 150, 0.568);
+    padding: 5px;
+}
